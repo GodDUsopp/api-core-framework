@@ -1,0 +1,11 @@
+{
+  "baseUri": "https://api.eventhub.rahulshettyacademy.com/api/",
+  "registerUser": "/auth/register",
+  "loginUser": "/auth/login",
+  "getUser": "/auth/me",
+  "getEvents": "/events",
+  "createEvent": "/events",
+  "updateEvent": "/events/{eventId}",
+  "deleteEvent": "/events/{eventId}",
+  "getEventById": "/events/{eventId}"
+}
